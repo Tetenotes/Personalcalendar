@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function () {
             start: '2024-11-07',
             description: 'Participate in Pledge Class Executive Committees'
         }
-        // Add more events if needed
+        
     ];
 
     async function fetchAndRenderEvents() {
